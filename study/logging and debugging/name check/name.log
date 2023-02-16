@@ -1,0 +1,12 @@
+DEBUG2023-02-16 11:23:21,555Checking name: asmita
+INFO2023-02-16 11:23:21,555Name is valid
+INFO2023-02-16 11:23:21,557Data saved successfully
+DEBUG2023-02-16 11:24:04,031Checking name: asmita
+INFO2023-02-16 11:24:04,031Name is valid
+INFO2023-02-16 11:24:04,031Data saved successfully
+DEBUG2023-02-16 11:24:05,005Checking name: asmita
+INFO2023-02-16 11:24:05,005Name is valid
+INFO2023-02-16 11:24:05,007Data saved successfully
+DEBUG2023-02-16 11:51:54,675Checking name: omkar548dd
+ERROR2023-02-16 11:51:54,675Name must contain only alphabets
+CRITICAL2023-02-16 11:51:54,676Failed to save due to invalid name!
