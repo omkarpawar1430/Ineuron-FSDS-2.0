@@ -1,0 +1,24 @@
+INFO 2023-02-20 18:08:42,114 getting element at 2
+INFO 2023-02-20 18:08:42,114 extracting elements from index 2 to index 3
+INFO 2023-02-20 18:08:42,115 Calculating number of elements.
+INFO 2023-02-20 18:10:01,501 extracting elements from index 2 to index 3
+INFO 2023-02-20 18:10:01,501 Calculating number of elements.
+INFO 2023-02-20 18:10:06,659 extracting elements from index 2 to index 3
+INFO 2023-02-20 18:10:18,060 getting element at 2
+INFO 2023-02-20 18:10:37,112 extracting elements from index 2 to index 3
+INFO 2023-02-20 18:10:46,075 extracting elements from index 2 to index 5
+INFO 2023-02-20 18:10:51,760 extracting elements from index 2 to index 9
+INFO 2023-02-20 18:10:58,929 extracting elements from index 2 to index 12
+INFO 2023-02-20 18:11:00,050 extracting elements from index 2 to index 12
+INFO 2023-02-20 18:11:21,329 extracting elements from index 13 to index 12
+INFO 2023-02-20 18:11:47,726 extracting elements from index 3 to index 9
+INFO 2023-02-20 18:12:11,350 getting element at 9
+ERROR 2023-02-20 18:12:11,350 Facing tuple index out of range error, Try again with different values.
+INFO 2023-02-20 18:12:13,342 getting element at 9
+ERROR 2023-02-20 18:12:13,342 Facing tuple index out of range error, Try again with different values.
+INFO 2023-02-20 18:12:18,555 getting element at 8
+ERROR 2023-02-20 18:12:18,556 Facing tuple index out of range error, Try again with different values.
+INFO 2023-02-20 18:12:19,685 getting element at 8
+ERROR 2023-02-20 18:12:19,685 Facing tuple index out of range error, Try again with different values.
+INFO 2023-02-20 18:12:27,139 getting element at 7
+INFO 2023-02-20 18:13:32,220 Calculating number of elements.
