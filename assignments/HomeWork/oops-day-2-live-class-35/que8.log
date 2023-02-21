@@ -1,0 +1,2 @@
+INFO : 2023-02-21 18:38:22,318 : division 23 with 0 is in process
+ERROR : 2023-02-21 18:38:22,319 : Can not divide 23 by 0, <class 'ZeroDivisionError'>!!!
