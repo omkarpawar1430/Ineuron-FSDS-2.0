@@ -1,26 +1,12 @@
-INFO 2023-02-18 13:21:57,750 Looking for ai in [1, 2, 3, 5, 'ai']
-DEBUG 2023-02-18 13:21:57,750 checking if 1 == ai
-DEBUG 2023-02-18 13:21:57,750 checking if 2 == ai
-DEBUG 2023-02-18 13:21:57,750 checking if 3 == ai
-DEBUG 2023-02-18 13:21:57,750 checking if 5 == ai
-DEBUG 2023-02-18 13:21:57,750 checking if ai == ai
-INFO 2023-02-18 13:21:57,750 ai exists in [1, 2, 3, 5, 'ai']
-INFO 2023-02-18 13:22:39,384 Looking for 7 in [1, 2, 3, 5, 'ai']
-DEBUG 2023-02-18 13:22:39,385 checking if 1 == 7
-DEBUG 2023-02-18 13:22:39,385 checking if 2 == 7
-DEBUG 2023-02-18 13:22:39,385 checking if 3 == 7
-DEBUG 2023-02-18 13:22:39,385 checking if 5 == 7
-DEBUG 2023-02-18 13:22:39,385 checking if ai == 7
-WARNING 2023-02-18 13:22:39,385 7 does not exist in [1, 2, 3, 5, 'ai']
-INFO 2023-02-18 13:23:17,351 Looking for [1, 2, 3] in [1, 2, 3, 5, 'ai']
-DEBUG 2023-02-18 13:23:17,351 checking if 1 == [1, 2, 3]
-DEBUG 2023-02-18 13:23:17,352 checking if 2 == [1, 2, 3]
-DEBUG 2023-02-18 13:23:17,352 checking if 3 == [1, 2, 3]
-DEBUG 2023-02-18 13:23:17,352 checking if 5 == [1, 2, 3]
-DEBUG 2023-02-18 13:23:17,352 checking if ai == [1, 2, 3]
-WARNING 2023-02-18 13:23:17,352 [1, 2, 3] does not exist in [1, 2, 3, 5, 'ai']
-INFO 2023-02-18 13:24:15,596 Looking for 3 in [1, 2, 3, 5, 'ai']
-DEBUG 2023-02-18 13:24:15,597 checking if 1 == 3
-DEBUG 2023-02-18 13:24:15,597 checking if 2 == 3
-DEBUG 2023-02-18 13:24:15,597 checking if 3 == 3
-INFO 2023-02-18 13:24:15,597 3 exists in [1, 2, 3, 5, 'ai']
+INFO 2023-02-22 17:12:08,103 Looking for 3 in [1, 2, 3, 5, 'ai']
+DEBUG 2023-02-22 17:12:08,103 checking if 1 == 3
+DEBUG 2023-02-22 17:12:08,104 checking if 2 == 3
+DEBUG 2023-02-22 17:12:08,104 checking if 3 == 3
+INFO 2023-02-22 17:12:08,104 3 exists in [1, 2, 3, 5, 'ai']
+INFO 2023-02-22 17:12:16,916 Looking for 4 in [1, 2, 3, 5, 'ai']
+DEBUG 2023-02-22 17:12:16,918 checking if 1 == 4
+DEBUG 2023-02-22 17:12:16,918 checking if 2 == 4
+DEBUG 2023-02-22 17:12:16,918 checking if 3 == 4
+DEBUG 2023-02-22 17:12:16,918 checking if 5 == 4
+DEBUG 2023-02-22 17:12:16,920 checking if ai == 4
+WARNING 2023-02-22 17:12:16,920 4 does not exist in [1, 2, 3, 5, 'ai']
