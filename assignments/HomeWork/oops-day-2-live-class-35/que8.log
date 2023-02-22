@@ -1,2 +1,4 @@
-INFO : 2023-02-21 18:38:22,318 : division 23 with 0 is in process
-ERROR : 2023-02-21 18:38:22,319 : Can not divide 23 by 0, <class 'ZeroDivisionError'>!!!
+INFO : 2023-02-22 15:06:55,293 : division 23 with 0 is in process
+ERROR : 2023-02-22 15:06:55,294 : Can not divide 23 by 0, <class 'ZeroDivisionError'>!!!
+INFO : 2023-02-22 15:07:00,887 : addition of 1 in 132 is in process
+INFO : 2023-02-22 15:11:07,109 : addition of 2 in 5 is in process
