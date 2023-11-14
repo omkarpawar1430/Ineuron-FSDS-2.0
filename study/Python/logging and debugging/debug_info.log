@@ -35,3 +35,13 @@
 2023-11-04 11:48:15,323 - my_logger - ERROR - This is an error message
 2023-11-04 11:48:15,324 - my_logger - CRITICAL - This is a critical message
 2023-11-04 11:48:15,324 - my_logger - CRITICAL - This is a critical message
+2023-11-04 13:11:58,480 - my_logger - DEBUG - This is a debug message
+2023-11-04 13:11:58,480 - my_logger - DEBUG - This is a debug message
+2023-11-04 13:11:58,527 - my_logger - INFO - This is an info message
+2023-11-04 13:11:58,527 - my_logger - INFO - This is an info message
+2023-11-04 13:11:58,530 - my_logger - WARNING - This is a warning message
+2023-11-04 13:11:58,530 - my_logger - WARNING - This is a warning message
+2023-11-04 13:11:58,534 - my_logger - ERROR - This is an error message
+2023-11-04 13:11:58,534 - my_logger - ERROR - This is an error message
+2023-11-04 13:11:58,536 - my_logger - CRITICAL - This is a critical message
+2023-11-04 13:11:58,536 - my_logger - CRITICAL - This is a critical message
